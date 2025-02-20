@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="/">
+    <file>data/Back.png</file>
+    <file>data/miniPaper.png</file>
+    <file>data/miniRock.png</file>
+    <file>data/miniScissors.png</file>
+    <file>data/Paper.png</file>
+    <file>data/Rock.png</file>
+	<file>data/notReady.png</file>
+    <file>data/ready.png</file>
+    <file>data/Scissors.png</file>
+	<file>data/smallPaper.png</file>
+    <file>data/smallRock.png</file>
+    <file>data/smallScissors.png</file>
+	<file>data/refresh.png</file>
+    <file>data/start.png</file>
+    <file>data/stop.png</file>
+  </qresource>
+</RCC>
