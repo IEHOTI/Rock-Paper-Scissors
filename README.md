@@ -19,7 +19,7 @@ cd build
 2️⃣ Генерация проекта с CMake
 
 Выполните следующую команду, указав правильные версии Visual Studio и путь до установленного Qt:cm
-cmake -G <версия Visual Studio> -DCMAKE_PREFIX_PATH="<путь до установленного Qt>msvc20xx_64" ..
+cmake -G "Visual Studio 17 2022" -DCMAKE_PREFIX_PATH="C:\Qt\6.8.0\msvc2022_64" .. 
 
 Примечание:
 Замените C:\Qt\6.8.0\msvc2022_64 на актуальный путь к вашей установке Qt.
