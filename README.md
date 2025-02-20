@@ -10,6 +10,7 @@
 1. mkdir build
 2. cd build
 3. cmake -G <версия Visual studio> -DCMAKE_PREFIX_PATH="<путь до установленной Qt>\msvc20xx_64" .. 
+
 Пример команды к шагу 3: cmake -G "Visual Studio 17 2022" -DCMAKE_PREFIX_PATH="C:\Qt\6.8.0\msvc2022_64" .. 
 
 # Сборка проекта
